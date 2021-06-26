@@ -1,6 +1,6 @@
 👋 ‏‏‎ ‎Hi, I’m @zaydam1000000!
 
-Right now I am working on multiple projects, including:
+Right now I am working on multiple projects (datapacks and maps), including:
 
 High Effort:
 ----
