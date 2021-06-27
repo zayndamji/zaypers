@@ -12,6 +12,7 @@ Right now I am working on multiple datapacks, including (ranked by quality):
 9. [Smelt Blaze Powder to Blaze Rod](https://github.com/zaydam1000000/smelt_blaze_powder_to_blaze_rod "Smelt Blaze Powder to Blaze Rod")  
 10. [Craftable End Portal Frame](https://github.com/zaydam1000000/craftable_end_portal_frame "Craftable End Portal Frame")  
 11. [Craftable Totem of Undying](https://github.com/zaydam1000000/craftable_totem_of_undying "Craftable Totem of Undying")  
+12. [Wool to String](https://github.com/zaydam1000000/wool_to_string "Wool to String")  
 
 The only map I have worked on is:  
 1. [Diamond Shovel Pixel Art](https://github.com/zaydam1000000/diamond_shovel_pixel_art_map "Diamond Shovel Pixel Art")  
