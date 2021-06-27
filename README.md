@@ -14,4 +14,6 @@ Right now I am working on multiple datapacks, including (ranked by quality):
 11. [Craftable Totem of Undying](https://github.com/zaydam1000000/craftable_totem_of_undying "Craftable Totem of Undying")  
 
 The only map I have worked on is:  
-[Diamond Shovel Pixel Art](https://github.com/zaydam1000000/diamond_shovel_pixel_art_map "Diamond Shovel Pixel Art")
+1. [Diamond Shovel Pixel Art](https://github.com/zaydam1000000/diamond_shovel_pixel_art_map "Diamond Shovel Pixel Art")  
+
+I hope you enjoy looking through my repositories!
