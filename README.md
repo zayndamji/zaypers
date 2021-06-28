@@ -1,8 +1,6 @@
 👋 ‏‏‎ ‎Hi, I’m @zaydam1000000!  
 Here are the projects I've worked on, feel free to explore!
 
-My most worked on project so far is: [QOL Recycling and Crafting Pack](https://github.com/zaydam1000000/qol_recycling_crafting_pack "QOL Recycling and Crafting Pack")  
-
 <details>
   <summary>Multi-Function Datapacks (more than one change in drops/crafts)</summary>
   
