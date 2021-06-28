@@ -23,6 +23,7 @@ My most worked on project so far is: [QOL Recycling and Crafting Pack](https://g
   [Craftable End Portal Frame](https://github.com/zaydam1000000/craftable_end_portal_frame "Craftable End Portal Frame")  
   [Craftable Totem of Undying](https://github.com/zaydam1000000/craftable_totem_of_undying "Craftable Totem of Undying")  
   [Craftable Nether Star](https://github.com/zaydam1000000/craftable_nether_star "Craftable Nether Star")  
+  [Craftable Bee Spawn Egg](https://github.com/zaydam1000000/craftable_bee_spawn_egg "Craftable Bee Spawn Egg")  
   [Wool to String](https://github.com/zaydam1000000/wool_to_string "Wool to String")  
 </details>
 
