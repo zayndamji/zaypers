@@ -2,7 +2,9 @@
 I work on robotics, websites, and libraries.  
 
 <a href="https://github.com/zaypers/robotevents-api">https://github.com/zaypers/robotevents-api</a> - A NodeJS wrapper library around the <a href="https://www.robotevents.com/api/v2">RobotEvents API</a>. Install with <a href="https://www.npmjs.com/package/robotevents-api">npm</a> using the terminal.  
-<code>$ npm install robotevents-api</code>  
+```
+$ npm install robotevents-api
+```
 
 <a href="https://www.speedzappers.com/">https://www.speedzappers.com/</a> - Robotics website for Team SpeedZappers. Source code not publicly available yet.  
 
